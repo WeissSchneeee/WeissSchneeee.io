@@ -1,0 +1,133 @@
+*{
+    margin: 0px;
+}
+
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body {
+    color: #343434;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+  a {
+    color: #FFE66D;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  h1 {
+    font-size: 79px;
+    line-height: 1;
+  }
+  h2 {
+    font-size: 35px;
+  }
+  h1, h2 {
+    font-family: 'Caveat', cursive;
+    font-weight: 400;
+    margin: 0;
+  }
+  .content-wrap {
+    max-width: 900px;
+    width: 85%;
+    margin: 0 auto;
+    padding: 60px 0;
+  }
+  h3 {
+    margin-bottom: 0;
+  }
+  .item-details h3 + p {
+    font-style: italic;
+  }
+  .item-details h3 ~ p {
+    margin: 0;
+  }
+  .divider > section {
+    border-bottom: 1px dashed #343434;
+    padding: 25px 0;
+  }
+  .divider > section:last-of-type {
+    border-bottom: none;
+  }
+
+  .uts h3 ~ p{
+    font-style: italic;
+  }
+
+header {
+    /* background: #2F3061; */
+    background: #5bccf6;
+    color: #F7FFF7;
+  }
+
+.myPhoto{
+    float: right;
+    margin: 70px;
+}
+  
+
+.projects {
+    /* background: #F7FFF7; */
+    background: #fcde67;
+  }
+  .projects a {
+    color: #2F3061;
+  }
+  .projects .btn {
+    color: #F7FFF7;
+    background: #2F3061;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+    display: inline-block;
+  }
+  .projects .btn:hover {
+    background: rgba(47, 48, 97, 80%);
+  }
+  .project-item {
+    overflow: hidden;
+  }
+  .project-item h3 {
+    margin-top: 0;
+  }
+
+.skills{
+    background: #A7E8BD;
+}
+
+.work-experience{
+    background:#EFA7A7;
+}
+
+.education{
+    background: #37365ab0;
+    background-image: url(../../image/radial.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    /* padding-bottom: 20px; */
+}
+
+.education p{
+    color: azure;
+    width: 100%;
+}
+
+.education h2{
+    color: rgb(255, 255, 255);
+}
+
+.education h3{
+    color: black;
+}
+
+.honours{
+    background: #CBC3E3;
+}
