@@ -1,7 +1,6 @@
 //import logo from './logo.svg';
 import './App.css';
-import {useState, useEffect} from "react";
-import {Link, Route, Routes} from "react-router-dom";
+import {Route, Routes} from "react-router-dom";
 import { Intro } from "./intro/component/Intro";
 
 

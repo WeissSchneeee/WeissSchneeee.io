@@ -39,11 +39,13 @@ function MyResume({name, image}){
       <div class="content-wrap tSkills">
         <h2>Technical Skills</h2>
         <section>
-          <p>Languages 		C, C++, C#, CSS, HTML, Java (JavaFX for GUI), JavaScript, Python, TypeScript, Visual Basic (for applications) <br />
-             Framework		React JS <br />
-             Database		SQL (MySQL, PostgreSQL), NoSQL (MongoDB) <br />
-             Systems		Windows, Linux (Ubuntu) <br />
-             Software		Adobe Photoshop, AutoCAD, Docker, Godot, Mathematica, MS Office (Access, Excel, Outlook, PowerPoint, Word) <br />
+          <p><strong>Languages</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C, C++, C#, CSS, HTML, Java (JavaFX for GUI), JavaScript, Python, TypeScript, Visual Basic (for applications) <br/>
+          <strong>Frontend Framework</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React.js <br/>
+          <strong>Backend Environment</strong>:&nbsp;&nbsp;&nbsp;Node.js <br/>
+          <strong>Database</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, PostgreSQL, MongoDB   <br/>
+          <strong>Cloud Application Platform</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heroku     <br/>
+          <strong>Scripting Languages</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PowerShell        <br/>
+          <strong>Software</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adobe Photoshop, AutoCAD, Docker, Mathematica, MS Office (Excel, Outlook, PowerPoint, Word)   <br/>
           </p>
         </section>
         </div>
@@ -56,7 +58,11 @@ function MyResume({name, image}){
           <h3>Software Engineer Intern</h3>
           <p>Optik Consultancy</p>
           <p>November 2022 - Present</p>
-          <p>Working with Hilti Australia to develop a firestop selector software</p>
+          <p>• Working in a team of four interns to design a firestop selector website for Hilti Australia</p>
+          <p>•	Developing a user-friendly UI following the client’s requirements by using React.js</p>
+          <p>•	Developing the functionality in the backend by using Node.js</p>
+          <p>•	Deploying the website and the database on Heroku cloud application platform</p>
+
         </section>
       </div>
       </section>
@@ -121,9 +127,6 @@ const MorningAvoEven = (time) => {
   }
 }
 
-const handleImageClick = () =>{
-  window.location.href = "www.youtube.com";
-}
 
 export const Intro = () => {
   const [data, setData] = useState();
