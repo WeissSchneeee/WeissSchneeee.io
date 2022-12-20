@@ -62,6 +62,18 @@ html {
     font-style: italic;
   }
 
+  .content-wrap1 {
+    max-width: 900px;
+    width: 85%;
+    margin-left: 800px;
+    padding: 50px 0;
+  }
+
+  .contact{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
 header {
     /* background: #2F3061; */
     background: #5bccf6;
@@ -101,6 +113,7 @@ header {
 
 .skills{
     background: #A7E8BD;
+    /* color: #F7FFF7; */
 }
 
 .work-experience{
@@ -130,4 +143,9 @@ header {
 
 .honours{
     background: #CBC3E3;
+}
+
+.contact{
+    background: #343434;
+    color: #F7FFF7;
 }

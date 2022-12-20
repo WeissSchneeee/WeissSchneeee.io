@@ -94,7 +94,12 @@ function MyResume({name, image}){
           </section>
          </div> 
       </section>
-
+      <section class='contact'>
+        <div class="content-wrap1">
+          <h3>Let's keep in touch</h3>
+          <p><i>yuanming.huang@student.uts.edu.au</i></p>
+        </div>
+      </section>
     </div>
   )
 }
