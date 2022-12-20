@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/WeissSchneeee.io/static/css/main.11557891.css",
-    "main.js": "/WeissSchneeee.io/static/js/main.2a8d0fcc.js",
+    "main.css": "/WeissSchneeee.io/static/css/main.d447fe2b.css",
+    "main.js": "/WeissSchneeee.io/static/js/main.ae2cd8ad.js",
     "static/js/787.28cb0dcd.chunk.js": "/WeissSchneeee.io/static/js/787.28cb0dcd.chunk.js",
     "static/media/Project1.png": "/WeissSchneeee.io/static/media/Project1.e6a411df8fa5889413ce.png",
     "static/media/radial.png": "/WeissSchneeee.io/static/media/radial.82ed62dee08a385b356b.png",
     "index.html": "/WeissSchneeee.io/index.html",
-    "main.11557891.css.map": "/WeissSchneeee.io/static/css/main.11557891.css.map",
-    "main.2a8d0fcc.js.map": "/WeissSchneeee.io/static/js/main.2a8d0fcc.js.map",
+    "main.d447fe2b.css.map": "/WeissSchneeee.io/static/css/main.d447fe2b.css.map",
+    "main.ae2cd8ad.js.map": "/WeissSchneeee.io/static/js/main.ae2cd8ad.js.map",
     "787.28cb0dcd.chunk.js.map": "/WeissSchneeee.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11557891.css",
-    "static/js/main.2a8d0fcc.js"
+    "static/css/main.d447fe2b.css",
+    "static/js/main.ae2cd8ad.js"
   ]
 }
