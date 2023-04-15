@@ -14,8 +14,16 @@ function MyResume({name, image}){
             <h1>Yuanming (Leo) Huang</h1>
             <h2>Student at University of Technology, Sydney</h2>
             <p>{MorningAvoEven(Time())} Thank you for visiting my portfolio</p>
-            <p>As a software engineering student, I am interested in field of Machine Learning, decsion support system and web development in industry.
-            I am a practicing learning and self-motivated student with strong academic transcript in software engineering related subjects.</p>
+            <p>I’m Yuanming Huang. As a final-year software engineering student, I am interested in Machine Learning, decision support systems, recommender system and web application development in the industry. I am passionate about creating innovative and efficient software solutions that can help solve complex problems.
+            <p>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+            <p>Throughout my internship, I have worked with a team of four interns at Optik Consultancy to develop a web application that has the functionality to help clients to filter and find suitable solutions for their firestop selector products. I learnt several programming languages and tools, including JavaScript, Python, React.js, Node.js and PostgreSQL. I gained experience in front and backend development during that internship and designing databases and software architecture for actual industry-used software.</p>
+            <p>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+            <p>One of my key strengths as a software engineer is my ability to collaborate effectively with others. Great software results from solid teamwork and communication, and I always strive to create a positive and collaborative work environment.</p>
+            <p>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+            <p>Overall, I am passionate about creating high-quality, innovative software solutions that can help make a positive impact on the world. Also, I am dedicated to learning new techniques used heavily in the industry. I believe that the rapid growth of artificial intelligence will eventually apply to everyone’s daily life, and I have a passion for working in the area of machine learning as well as the software development mentioned above. I am excited about the opportunity to work on new and challenging software techniques.</p>
+            </p>
+            {/* <p>As a software engineering student, I am interested in field of Machine Learning, decsion support system and web development in industry.
+            I am a practicing learning and self-motivated student with strong academic transcript in software engineering related subjects.</p> */}
           </div>
       </header>
       {/* project */}
